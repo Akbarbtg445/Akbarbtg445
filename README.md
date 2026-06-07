@@ -1,2 +1,6 @@
-<img width="480" height="268" alt="giphy" src="https://github.com/user-attachments/assets/6f6ee642-240d-420f-b9af-7560e75d66ee" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
 
