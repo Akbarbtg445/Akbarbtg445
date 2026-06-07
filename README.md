@@ -1,3 +1,3 @@
 ### 🐍 My GitHub Contribution Snake
 
-<img src="https://jsdelivr.net" alt="GitHub Snake" width="100%">
+<img src="github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%">
