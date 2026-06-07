@@ -1,3 +1,3 @@
 ### 🐍 My GitHub Contribution Snake
 
-![GitHub Snake](https://githubusercontent.com)
+<img src="./github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%">
