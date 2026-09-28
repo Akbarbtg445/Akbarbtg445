@@ -1,1 +1,1 @@
-<img src="https://github.com/user-attachments/assets/d1cdfe67-d7aa-427f-a17f-7120267c39f8" alt="Banner Profile" width="100%" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHR6cWQ0bDRqenJlZW1tazBuMTg1bWY1bXloanoydTJvcWNicTUzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ypdKXOvbYBtbpMHcyP/giphy.gif" alt="Banner Profile" width="100%" />
