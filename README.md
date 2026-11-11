@@ -12,7 +12,7 @@
 </div>
 
 Halo! Saya **M. Ridho Akbar** (Akbarbtg445) 🕵️‍♂️
-Saya adalah seorang mahasiswa Informatika di Universitas Muhammadiyah Yogyakarta (UMY) yang beroperasi sebagai **Full-Stack Tech Detective**. Saya berspesialisasi dalam melacak jejak data, mengamankan jaringan dari ancaman, dan merakit arsitektur *backend* untuk memecahkan masalah kompleks.
+Saya adalah seorang mahasiswa Teknologi Informasi di Universitas Muhammadiyah Yogyakarta (UMY) yang beroperasi sebagai **Full-Stack Developer**. Saya berspesialisasi dalam melacak jejak data, mengamankan jaringan dari ancaman, dan merakit arsitektur *backend* untuk memecahkan masalah kompleks.
 
 ### 📋 📁 Case Files (Current Investigations)
 Kasus-kasus yang sedang saya tangani saat ini:
