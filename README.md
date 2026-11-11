@@ -5,9 +5,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHMzZGlldmY1cHFmNjllNTkya2xwOW5jcXpidGduYWJsemt1MXpwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rwOtvIAkUppg63RIvA/giphy.gif" height="250">
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akbarbtg445/Akbarbtg445/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+
   
   # 🔍 *Tatta hitotsu no shinjitsu minuku!*
   ### (There is always only one truth... and only one bug to fix!)
@@ -47,8 +45,9 @@ Alat-alat yang saya gunakan untuk investigasi *full-stack* dan *security*:
 
 ### 📊 📈 Tracking The Suspect (GitHub Activity)
 <div align="center">
-  <!-- Biarkan kode animasi snake / grid hijau & ungu Anda yang lama di sini -->
-  <img src="URL_ANIMASI_SNAKE_ANDA" alt="Akbarbtg445's Contribution Graph" />
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/Akbarbtg445/Akbarbtg445/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 </div>
 
 ---
