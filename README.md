@@ -7,8 +7,8 @@
 </p>
 
   
-  # 🔍 *Tatta hitotsu no shinjitsu minuku!*
-  ### (There is always only one truth... and only one bug to fix!)
+  # 🔍 *If you are not remembered, then you never existed*
+  ### (Jika kamu tidak diingat, maka kamu tidak pernah ada.)
 </div>
 
 Halo! Saya **M. Ridho Akbar** (Akbarbtg445) 🕵️‍♂️
@@ -19,6 +19,15 @@ Kasus-kasus yang sedang saya tangani saat ini:
 - 🔍 **VQA Lost and Found System:** Mengembangkan kecerdasan buatan (Visual Question Answering) dengan backend FastAPI, Node.js, dan Supabase untuk melacak barang hilang di kampus.
 - ⛺ **HeyaCamp:** Co-founder dan pengembang utama platform penyewaan alat *outdoor* menggunakan Node.js dan Tailwind CSS.
 - 🔐 **Cybersecurity Dossiers:** Secara rutin menguji kerentanan keamanan web dan memecahkan tantangan *Capture The Flag* (CTF) seperti picoCTF.
+
+---
+
+### 📊 📈 Tracking The Suspect (GitHub Activity)
+<div align="center">
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/Akbarbtg445/Akbarbtg445/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+</div>
 
 ---
 
@@ -40,15 +49,6 @@ Alat-alat yang saya gunakan untuk investigasi *full-stack* dan *security*:
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 📈 Tracking The Suspect (GitHub Activity)
-<div align="center">
- <p align="center">
-  <img src="https://raw.githubusercontent.com/Akbarbtg445/Akbarbtg445/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-</div>
 
 ---
 
