@@ -7,7 +7,7 @@
 </p>
 
   
-  # 🔍 *If you are not remembered, then you never existed*
+  #  *If you are not remembered, then you never existed*
   ### (Jika kamu tidak diingat, maka kamu tidak pernah ada.)
 </div>
 
