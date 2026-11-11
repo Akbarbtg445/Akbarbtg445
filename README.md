@@ -3,4 +3,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHMzZGlldmY1cHFmNjllNTkya2xwOW5jcXpidGduYWJsemt1MXpwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rwOtvIAkUppg63RIvA/giphy.gif" height="250">
 </p>
-![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akbarbtg445/Akbarbtg445/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
